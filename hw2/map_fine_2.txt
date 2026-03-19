@@ -1,0 +1,16 @@
+15,15
+tree,grass,grass,tree,grass,grass,grass,grass,sand,sand,sand,sand,water,sand,sand
+grass,tree,grass,grass,grass,sand,sand,sand,sand,water,water,water,water,sand,sand
+grass,grass,grass,grass,sand,sand,sand,sand,water,water,sand,sand,sand,sand,grass
+grass,tree,grass,sand,sand,sand,water,water,water,sand,sand,grass,grass,grass,grass
+grass,grass,grass,sand,sand,sand,water,sand,sand,sand,grass,grass,grass,grass,grass
+grass,grass,tree,sand,sand,water,water,sand,sand,grass,grass,grass,grass,grass,grass
+tree,grass,tree,sand,sand,water,sand,sand,grass,grass,grass,sand,sand,sand,sand
+grass,grass,tree,sand,sand,water,water,sand,sand,grass,grass,sand,water,water,water
+grass,tree,grass,sand,sand,sand,water,water,sand,sand,sand,sand,water,sand,sand
+grass,grass,grass,grass,sand,sand,sand,water,water,water,water,water,water,sand,sand
+tree,grass,grass,grass,grass,sand,sand,sand,water,sand,sand,sand,sand,grass,grass
+grass,grass,tree,tree,grass,sand,sand,water,water,sand,sand,sand,grass,grass,tree
+grass,grass,grass,grass,sand,sand,water,water,sand,sand,sand,grass,tree,grass,grass
+tree,grass,grass,grass,sand,sand,water,sand,sand,grass,grass,grass,grass,grass,tree
+grass,grass,sand,sand,sand,water,water,sand,grass,grass,tree,grass,tree,grass,grass

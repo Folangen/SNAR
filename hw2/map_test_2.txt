@@ -1,0 +1,11 @@
+10,10
+grass,grass,grass,grass,grass,grass,grass,grass,grass,grass
+grass,grass,grass,grass,grass,grass,grass,grass,grass,grass
+grass,grass,grass,grass,grass,grass,grass,grass,grass,grass
+grass,grass,grass,grass,grass,grass,grass,grass,grass,grass
+grass,grass,grass,grass,grass,grass,grass,grass,grass,grass
+sand,sand,sand,sand,sand,sand,sand,sand,sand,sand
+sand,sand,sand,sand,sand,sand,sand,sand,sand,sand
+sand,sand,sand,sand,sand,sand,sand,sand,sand,sand
+sand,sand,sand,sand,sand,sand,sand,sand,sand,sand
+sand,sand,sand,sand,sand,sand,sand,sand,sand,sand
